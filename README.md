@@ -7,14 +7,23 @@ Whether you're returning to Flask after a break or brushing up before starting a
 🚀 Topics Covered
 
 Flask project structure
+
 Routing and views
+
 Templates with Jinja2
+
 Forms and request handling
+
 Working with Flask extensions
+
 Database integration (SQLAlchemy)
+
 RESTful APIs with Flask
+
 Error handling
+
 Sessions and authentication basics
+
 Deployment tips
 
 
